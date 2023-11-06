@@ -2,6 +2,7 @@
   "name": "specialists-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "/Noname09876543.github.io/#",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
